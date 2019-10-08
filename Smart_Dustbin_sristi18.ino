@@ -1,5 +1,5 @@
 #include <Stepper.h>
-int ledPin = 12;               
+int ledPin = 12;               // check the pins number according to the arduino you are using 
 int inputPin = 2;               // PIR sensor
 int pirState = LOW;             // we start, assuming no motion detected
 int val = 0;                    // variable for reading the pin status
