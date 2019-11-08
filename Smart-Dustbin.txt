@@ -5,3 +5,4 @@ Code to drive smart dustbin's lid and all functions like opening,indication of d
 This dustbin is made very cheif so that every one can afford in the age of digitalisation and enjoy this.
 .....
 Thanks :)
+hello
